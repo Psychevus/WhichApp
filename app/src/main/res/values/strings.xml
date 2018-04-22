@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhichApp</string>
+    <string name="footer_text">dial: your country’s exit code + destination country code + phone number</string>
+</resources>
